@@ -27,7 +27,7 @@
 #*.vbproj    merge=binary
 #*.vcxproj   merge=binary
 #*.vcproj    merge=binary
-#*.dbproj    merge=binary
+#*.dbproj    merge=bina ry
 #*.fsproj    merge=binary
 #*.lsproj    merge=binary
 #*.wixproj   merge=binary
